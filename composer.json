@@ -12,7 +12,6 @@
         "ext-json": "*",
         "jenssegers/agent": "^2.6",
         "larapack/hooks": "~1.0",
-        "laravel/framework": "^6.0",
         "tcg/voyager": "^1.0"
     },
     "license": "MIT",
